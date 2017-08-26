@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+h3 {
+  margin-left: 40px;
+}
+
+p {
+  margin-left: 80px;
+}
+
+.success {
+  color: green;
+  display: none;
+}
+
+.error {
+  white-space: pre;
+  font-weight: bold;
+}
+
+.error, .failed {
+  color: #bd0000;
+}
