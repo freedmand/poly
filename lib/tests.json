@@ -1,0 +1,14 @@
+[
+  "./file/file_test.js",
+  "./indexed_text/indexed_text_test.js",
+  "./string/string_test.js",
+  "./tokenizer/tokenizer_test.js",
+  "./type/type_test.js",
+  "./type/type_index_test.js",
+  "./parser/ast_test.js",
+  "./parser/parser_test.js",
+  "./interpreter/interpreter_test.js",
+  "./fraction/fraction_test.js",
+  "./naming/namer_test.js",
+  "./parser/scope_test.js"
+]
