@@ -10,5 +10,6 @@
   "./interpreter/interpreter_test.js",
   "./fraction/fraction_test.js",
   "./naming/namer_test.js",
-  "./parser/scope_test.js"
+  "./parser/scope_test.js",
+  "./intermediate_representation/ir_test.js"
 ]
