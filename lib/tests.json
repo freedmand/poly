@@ -7,7 +7,6 @@
   "./type/type_index_test.js",
   "./parser/ast_test.js",
   "./parser/parser_test.js",
-  "./interpreter/interpreter_test.js",
   "./fraction/fraction_test.js",
   "./naming/namer_test.js",
   "./parser/scope_test.js",
