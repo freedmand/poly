@@ -1,0 +1,12 @@
+value := 0
+
+fn outputButton(text String, incrementAmount Int) {
+  button := <button onclick = () -> value += incrementAmount>
+              ${text}
+            </button>
+  output(button)
+}
+
+outputButton('-', -1)
+output(<div>~{value}</div>)
+outputButton('+', 1)
